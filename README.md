@@ -120,7 +120,7 @@ Synapse is built for **serious research**:
 ---
 
 ## 🔗 Live Demo
-👉 https://your-live-link
+👉 synapse-knowledge-hub.vercel.app
 
 ---
 
